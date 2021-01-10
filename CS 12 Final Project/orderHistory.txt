@@ -1,0 +1,3 @@
+Burger,White Bun,Pickles,No Patty,Pickles,Fries,Root Beer
+Burger,Sweet Bun,Ketchup,Beef Patty,Mustard,None,None
+Sandwich,White Bread,None,Chicken,Tomatoes,Fries,Water
